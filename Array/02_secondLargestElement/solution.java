@@ -1,4 +1,4 @@
-public class secondLargestElement {
+public class solution {
     public static void main(String[] args){
         int[] arr = {12,43,54,65,32};
         int firstMax = -1;
