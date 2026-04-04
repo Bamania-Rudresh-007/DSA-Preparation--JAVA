@@ -1,4 +1,4 @@
-public class solution {
+public class CheckSorted {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
         boolean flag = false;
